@@ -1,0 +1,10 @@
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\bin\Debug\HitungGaji_EdoRahayu.exe.config
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\bin\Debug\HitungGaji_EdoRahayu.exe
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\bin\Debug\HitungGaji_EdoRahayu.pdb
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\bin\Debug\HitungGaji_EdoRahayu.xml
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.Form1.resources
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.Resources.resources
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.vbproj.GenerateResource.Cache
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.exe
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.xml
+C:\Users\Designer\Documents\Visual Studio 2012\Projects\HitungGaji_EdoRahayu\HitungGaji_EdoRahayu\obj\Debug\HitungGaji_EdoRahayu.pdb
